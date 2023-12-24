@@ -1,0 +1,9 @@
+names:
+- trafficlight
+- speedlimit
+- crosswalk
+- stop
+nc: 4
+path: ..
+train: road-sign-detection\images
+val: road-sign-detection\images
